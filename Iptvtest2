@@ -1,1 +1,8 @@
-Fuck
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="* BDIX00",EKATTOR TV HD [BD]
+https://edge4.bioscopelive.com/hls/anonymous/4fYG6QrYi1egUJ8--Etcdg/1622113111/colors_bangla_mid/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="* BDIX00",EKATTOR TV HD [BD]
+https://edge4.bioscopelive.com/hls/anonymous/5ykEfawEq0rH3-1c3_vagA/1622114134/live-sony-aath_mid/index.m3u8
